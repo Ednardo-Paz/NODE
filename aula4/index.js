@@ -26,4 +26,4 @@ async function walk(files, rootDir) {
     console.log(fileFullPath);
   }
 }
-readdir('./documentos/PROJETOS/PROJETOSESTUDO/NODE');
+readdir(``);
